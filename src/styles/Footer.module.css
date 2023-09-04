@@ -1,0 +1,26 @@
+.footerContainer{
+  background-color:#23286b;
+}
+.footer{
+  @apply text-white mt-20 lg:mt-44 p-8 lg:p-28 grid grid-cols-1 md:grid-cols-4 gap-7;
+
+}
+.footerPara{
+  @apply text-slate-500 mt-5;
+  font-size:14px;
+}
+.footerPara1{
+  @apply text-slate-500 p-4;
+  font-size:14px;
+}
+.img{
+  @apply mt-5
+}
+@media only screen and (max-width:600px){
+  .img{
+    width: 150px;
+    height: 30px;
+    @apply text-center
+
+  }
+}

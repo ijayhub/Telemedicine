@@ -1,34 +1,70 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<div id="top"></div>
+<div align="center">
+    <img src="./public/telemedicine-website.png">
+</div>
 
-## Getting Started
+# Telemedicine Website
 
-First, run the development server:
+## Table of Contents
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li><a href="#about-the-project">About The Project</a>
+        <ul>
+            <li><a href="#overview">Overview</a></li>
+            <li><a href="#key-features">Key Features</a></li>
+        </ul>
+    </li>
+    <li><a href="#built-with">Built With</a></li>
+    <li><a href="#getting-started">Getting Started</a></li>
+    <li><a href="#available-scripts">Available Scripts</a></li>
+  </ol>
+</details>
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+## About The Project
+A telemedicine website is an online platform that facilitates remote healthcare services. Telemedicine websites gained popularity, offering accessible and convenient healthcare, particularly during events like the COVID-19 pandemic. It's essential for users to choose reputable platforms with qualified healthcare professionals for safe and effective remote medical care.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### Key Features
+- Page Navigation: The ability to navigate between pages seamlessly.
+- Ability to book for a door based on your budget.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### Overview
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+* [Repo Codes]()
+* [Hosted Link]()
 
-## Learn More
+<p align="right">(<a href="#top">back to top</a>)</p>
 
-To learn more about Next.js, take a look at the following resources:
+### Built With
+- [Next.js](https://nextjs.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Fabform](https://fabform.io/)
+- [Adobe](https://www.adobe.com/sensei/generative-ai/firefly.html)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+<p align="right">(<a href="#top">back to top</a>)</p>
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+### Getting Started
 
-## Deploy on Vercel
+To get a local copy up and running, follow these simple steps:
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+### Available Scripts
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+In the project directory, you can run:
+
+`npm run dev`
+
+Runs the app in the development mode.
+
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+The page will reload when you make changes.
+
+You may also see any lint errors in the console.
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+
+
+

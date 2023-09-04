@@ -1,0 +1,11 @@
+
+.list{
+  @apply mr-7 text-slate-500 hover:text-blue-700 text-base lg:px-5 mt-4;
+  font-size:14px;
+}
+.btnNav{
+  @apply mr-7 text-center bg-blue-700 text-white p-2 text-base hover:border border-blue-700 hover:text-blue-700 hover:bg-white mt-4;
+  font-size:14px;
+  width: 150px;
+  box-shadow: 4px 4px 4px rgb(59 130 246 / 0.5);
+}

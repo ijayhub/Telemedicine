@@ -1,0 +1,7 @@
+.testHead{
+  @apply text-blue-900 text-center lg:text-5xl font-bold
+}
+.ImgTest{
+  border-radius: 50%;
+
+}
