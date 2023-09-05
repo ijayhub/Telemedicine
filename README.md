@@ -26,12 +26,12 @@ A telemedicine website is an online platform that facilitates remote healthcare 
 
 ### Key Features
 - Page Navigation: The ability to navigate between pages seamlessly.
-- Ability to book for a door based on your budget.
+- Ability to book a health plan based on your budget.
 
 ### Overview
 
 * [Repo Codes]()
-* [Hosted Link]()
+* [Hosted Link](https://telemedicine-psi.vercel.app/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
