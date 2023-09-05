@@ -30,7 +30,7 @@ A telemedicine website is an online platform that facilitates remote healthcare 
 
 ### Overview
 
-* [Repo Codes]()
+* [Repo Codes](https://github.com/ijayhub/Telemedicine)
 * [Hosted Link](https://telemedicine-psi.vercel.app/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
